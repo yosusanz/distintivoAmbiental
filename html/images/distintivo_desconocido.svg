@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="20mm" height="20mm" viewBox="0 0 20 20">
+  <defs>
+    <style type="text/css">
+      <![CDATA[
+        .fil0 {fill:#888888}
+        .fil1 {fill:#FEFEFE}
+        .fil2 {fill:#333333}
+        .fil3 {fill:black}
+      ]]>
+    </style>
+  </defs>
+  <g>
+    <circle class="fil0" cx="10" cy="10" r="10"/>
+    <rect class="fil1" x="11.3334" y="4.8043" width="5.016" height="3.8152"/>
+    <rect class="fil1" x="11.1923" y="9.9617" width="5.7933" height="2.6139"/>
+    <rect class="fil2" x="7.5095" y="16.2495" width="5.2988" height="2.2609"/>
+    <text x="6" y="10" font-family="Arial, sans-serif" font-size="10" fill="black" text-anchor="middle" dominant-baseline="middle">?</text>
+  </g>
+</svg>

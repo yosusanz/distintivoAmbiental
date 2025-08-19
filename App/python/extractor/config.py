@@ -1,0 +1,5 @@
+CLEAN_PLATE_REGEX = r'[^A-Z0-9]'
+CROP_PADDING = 10
+VALID_PLATE_REGEX = r'\d{4}[BCDFGHJKLMNPRSTVWXYZ]{1,3}'
+MAX_WORKERS = 7
+MODEL_PATH = "/var/www/App/python/extractor/model/best.pt"

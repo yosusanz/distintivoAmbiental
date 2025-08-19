@@ -1,0 +1,15 @@
+html/images/uploads/*
+!html/images/uploads/
+!html/images/uploads/leeme.txt
+
+App/python/extractor/model/*
+!App/python/extractor/model/
+!App/python/extractor/model/leeme.txt
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+.DS_Store
+Thumbs.db

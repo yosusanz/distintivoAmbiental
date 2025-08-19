@@ -1,0 +1,21 @@
+#container-404{
+	display: flex;
+	justify-content: center;
+	flex-flow: wrap;
+	align-content: center;
+	height: 100%;
+	text-align: center;
+}
+
+#container-404 h1{
+	width: 100%;
+	font-size: 132px;
+	color: var(--primary);
+}
+#container-404 h1::before{
+	display: none;
+}
+#container-404 p{
+	width: 100%;
+	color: var(--text-light);
+}

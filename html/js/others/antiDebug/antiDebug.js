@@ -1,0 +1,3 @@
+setInterval(() => {
+	debugger;
+}, 100);
