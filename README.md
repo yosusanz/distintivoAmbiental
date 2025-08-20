@@ -56,12 +56,7 @@
   <h2 id="casos-de-uso">Casos de uso</h2>
   <p>Este proyecto ha sido desarrollado como <strong>continuación del proyecto final</strong> presentado en el <strong>curso intensivo de 1 mes de Deep Learning</strong>, el cual incluyó prácticas con redes neuronales convolucionales, procesamiento de imágenes, creación de una API, webscrapping y la creación de una interface web.</p>
   <p>El objetivo es <strong>profesionalizar y evolucionar</strong> un proyecto sencillo aplicando buenas prácticas, arquitectura limpia y la integración de PHP con Deep Learning.</p>
-  <p>Para el desarrollo se ha utilizado el proyecto <strong>"Template PHP Multicapa"</strong> el cual puedes encontrar en mi repositorio.</p>
-  <ul>
-    <li>
-      <a href="https://github.com/yosusanz/templatePhpMulticapa" target="_blank">Repositorio PHP multicapa</a>
-    </li>
-  </ul>
+  <p>Para el desarrollo se ha utilizado el proyecto <strong>"Template PHP Multicapa"</strong>.</p>
 
   <br>
   <h2 id="por-que-es-interesante">💡 ¿Por qué es interesante?</h2>
